@@ -1,0 +1,11 @@
+# Site settings
+title: devSchool.io
+email: info@devschool.io
+description: > # this means to ignore newlines until "baseurl:"
+  This is our blog, thanks for passing by.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://devschool.io" # the base hostname & protocol for your site
+github_username:  devschool-io
+
+# Build settings
+markdown: kramdown
