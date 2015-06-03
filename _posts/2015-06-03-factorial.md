@@ -1,17 +1,16 @@
 ---
 layout: post
-title:  "Todo List (Classwork)"
-date:   2015-06-02 18:00:00
+title:  "Factorial (Classwork)"
+date:   2015-06-03 18:00:00
 categories: javascript
 tags: [javascript]
 ---
 
 
-<h4>Todo List</h4>
-<p>Make a website that can add tasks to a todo list.</p>
-<p>Start by adding list items to a ul or ol.</p>
-<p>Add the functionality for a user to be able to delete a task from the list.</p>
-<p>Add the functionality to mark a task as done.</p>
+<h4>Factorial</h4>
+<p>Make a website that calculates the value of a factorial. For example 3! is 3 * 2 * 1 = 6</p>
+<p>Once you get the factorials working add the result to a table with the number you selected.</p>
+<p>Google how to make tables in html.</p>
   
 
 <div id="disqus_thread"></div>
