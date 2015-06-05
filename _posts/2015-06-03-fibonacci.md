@@ -1,16 +1,19 @@
 ---
 layout: post
-title:  "Factorial (Classwork)"
-date:   2015-06-03 18:00:00
+title:  "Fibonacci (Classwork)"
+date:   2015-06-04 18:00:00
 categories: javascript
 tags: [javascript]
 ---
 
 
-<h4>Factorial</h4>
-<p>Make a website that calculates the value of a factorial. For example 3! is 3 * 2 * 1 = 6</p>
-<p>Once you get the factorials working add the result to a table with the number you selected.</p>
-<p>Google how to make tables in html.</p>
+<h4>Fibonacci</h4>
+<p>Here is a the Fibonacci series:</p>
+<p>0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, 6765, 10946, 17711, 28657, 46368, 75025, 121393, 196418, 317811, ...</p>
+<p>Read up on how to calculate the series <a href="http://en.wikipedia.org/wiki/Fibonacci_number" target="_blank">here</a></p>
+<p>The user will input a position and the webpage has to return the number of the sequence. For example, position 6 = 5, 9 = 21, 20 = 4181, ...</p>
+<p>Also, indicate if the number in the sequence is odd or even.</p>
+<p>Add the results to a table or ul.  If the number is odd make it "red" and "blue" if it is even.</p>
   
 
 <div id="disqus_thread"></div>
