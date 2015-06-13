@@ -7,7 +7,7 @@ tags: [javascript]
 ---
 
 
-<h4>Roman Numerals</h4>
+<h4>Numbers to words.</h4>
 <p>Make a website that takes in a number as input an returns it in words (e.g. 2002 = "two thousand and two")./p>
 <p>Go from zero to one billion.</p>
   
