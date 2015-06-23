@@ -1,18 +1,17 @@
 ---
 layout: post
-title:  "Virtual Zoo (Classwork)"
-date:   2015-06-22 18:00:00
+title:  "Bank Account (Classwork)"
+date:   2015-06-23 18:00:00
 categories: javascript
 tags: [javascript]
 ---
 
 
-<h4>Virtual Zoo</h4>
-<p>Create a class for an animal. Create subclasses that inherit from Animal.  For example Mammal, Reptile, etc</p>
-<p>Add properties for species name, bloodtype, latin name, what food they eat, average weight, if they are friendly, add an image to a property too.  Add more properties if you want.</p>
-<p>Add methods to change the properties.</p>
-<p>Add the end of your script create at least 5 animals and show them to the user.</p>
-<p>Allow the user to click on an animal's noise property.  For example, the cow noise property would go "Moooooooo".</p>
+<h4>Bank Account (Using OOP)</h4>
+<p>Create a bank account.</p>
+<p>The bank account should have the following: owner name, beginning balance, transfers(in or out), deposits, checks and adjustments.(Add memos to each transaction)</p>
+<p>Create a UI where the user can easily track their checking account.</p>
+<p>Optional: Add a pin to the account and only display the account info if the correct pin number is supplied.(Don't worry about encoding the pin now)</p>
 
 
 <div id="disqus_thread"></div>
