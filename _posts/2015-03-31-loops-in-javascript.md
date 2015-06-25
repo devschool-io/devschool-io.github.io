@@ -289,23 +289,26 @@ for(var i = 1; i <= 5; i = i + 1){
 {% endhighlight %}
 
 <h2>Exercise:</h2>
-<p>&nbsp;Write some code that loops through the numbers from 1 to 100, if the number is divisible by 5 print <em>"Andale andale!"</em> else print the number.</p>
-<!-- <p>If you don't have any programming experience we recommend you complete this intro <a href="http://www.codecademy.com/en/tracks/javascript" target="_blank">JavaScript course from Codeacademy</a>.</p> -->
+<p>&nbsp;Write some code that loops through the numbers from 1 to 100, if the number is divisible by 3 print <em>"Fizz"</em>. If the number is divisible by 5 print <em>"Buzz"</em>. If the number is divisible by 5 AND 3 print <em>"FizzBuzz"</em>, else just print the number.</p>
 <p>Sample output:</p>
 <ul class="code">
   <li style="list-style-type: none">> 1</li>
   <li style="list-style-type: none">> 2</li>
-  <li style="list-style-type: none">> 3</li>
+  <li style="list-style-type: none">> "Fizz"</li>
   <li style="list-style-type: none">> 4</li>
-  <li style="list-style-type: none">> "Andale andale!"</li>
-  <li style="list-style-type: none">> 6</li>
+  <li style="list-style-type: none">> "Buzz"</li>
+  <li style="list-style-type: none">> "Fizz"</li>
   <li style="list-style-type: none">> 7</li>
   <li style="list-style-type: none">> 8</li>
-  <li style="list-style-type: none">> 9</li>
-  <li style="list-style-type: none">> "Andale andale!"</li>
+  <li style="list-style-type: none">> "Fizz"</li>
+  <li style="list-style-type: none">> "Buzz"</li>
+  <li style="list-style-type: none">> 11</li>
+  <li style="list-style-type: none">> "Fizz"</li>
+  <li style="list-style-type: none">> 13</li>
+  <li style="list-style-type: none">> 14</li>
+  <li style="list-style-type: none">> "FizzBuzz"</li>
+  <li style="list-style-type: none">> 16</li>
   <li style="list-style-type: none">> ...</li>
-  <li style="list-style-type: none">> 99</li>
-  <li style="list-style-type: none">> "Andale andale!"</li>
 </ul>
 
 <p>Then go to <a href="https://jsfiddle.net/" target="_blank">JSFiddle.net</a> and create a new fiddle with your code.  Run it and test if the output is correct.</p>
