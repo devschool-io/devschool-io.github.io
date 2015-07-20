@@ -3,6 +3,7 @@ layout: post
 title:  "Factorial (Classwork)"
 date:   2015-06-02 18:00:00
 categories: javascript
+published: false
 tags: [javascript]
 ---
 

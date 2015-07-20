@@ -9,12 +9,10 @@ tags: [html-css]
 <iframe src="https://player.vimeo.com/video/127847019" width="1000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <br><br>
-<div class="not-on-video">
-  <h2>HTML</h2>
-  <p>HyperText Markup Language, commonly referred to as HTML, is the standard markup language used to create web pages. It is written in the form of HTML elements consisting of tags enclosed in angle brackets.</p>
-  <br>
-  <p>Source: Wikipedia</p>
-</div>  
+<h2>HTML</h2>
+<p>HyperText Markup Language, commonly referred to as HTML, is the standard markup language used to create web pages. It is written in the form of HTML elements consisting of tags enclosed in angle brackets.</p>
+<br>
+<p>Source: Wikipedia</p>
 
 <br><br>
 

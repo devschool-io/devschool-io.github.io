@@ -3,6 +3,7 @@ layout: post
 title:  "Virtual Zoo (Classwork)"
 date:   2015-06-22 18:00:00
 categories: javascript
+published: false
 tags: [javascript]
 ---
 

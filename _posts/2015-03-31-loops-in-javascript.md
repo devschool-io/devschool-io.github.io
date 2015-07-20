@@ -12,14 +12,12 @@ Your web browser (Google Chrome, Firefox, Internet Explorer or Safari) right now
 
 <p>In some of the example below I use <a href="https://jsfiddle.net/" target="_blank">JSFiddle.net</a> for quicker demonstrations purposes.</p>
 
-<iframe width="640" height="480"  src="http://www.youtube.com/embed/3jVmo73VBFo?VQ=HD480" frameborder="0" allowfullscreen></iframe>
+
 <br><br>
-<div class="not-on-video">
-  <h2>Chrome Console:</h2>
-  <p>Open the console in Chrome with following command:</p>
-  <p>Windows/Linux: Control + Shift + j</p>
-  <p>Mac: Command + Alt + j</p>
-</div>  
+<h2>Chrome Console:</h2>
+<p>Open the console in Chrome with following command:</p>
+<p>Windows/Linux: Control + Shift + j</p>
+<p>Mac: Command + Alt + j</p>
 
 <h3>Comments</h3>
 
@@ -288,6 +286,21 @@ for(var i = 1; i <= 5; i = i + 1){
 
 {% endhighlight %}
 
+You can also use else if statements for more control of the flow of the code.
+
+{% highlight JavaScript %}
+
+if(some condition is true){
+  console.log("this");
+} else if (some condition is true){
+  console.log("this will run only if the first if condition is false and the else if condition is true");
+} else {
+  console.log("this will only run if the if statement and else if statement is false")
+}
+
+{% endhighlight %}
+
+
 <h2>Exercise:</h2>
 <p>&nbsp;Write some code that loops through the numbers from 1 to 100, if the number is divisible by 3 print <em>"Fizz"</em>. If the number is divisible by 5 print <em>"Buzz"</em>. If the number is divisible by 5 AND 3 print <em>"FizzBuzz"</em>, else just print the number.</p>
 <p>Sample output:</p>
@@ -310,6 +323,7 @@ for(var i = 1; i <= 5; i = i + 1){
   <li style="list-style-type: none">> 16</li>
   <li style="list-style-type: none">> ...</li>
 </ul>
+
 
 <p>Then go to <a href="https://jsfiddle.net/" target="_blank">JSFiddle.net</a> and create a new fiddle with your code.  Run it and test if the output is correct.</p>
 <p style="color:red">If you are getting errors, you might be missing some "}", "(" or ";" on your code.</p>
