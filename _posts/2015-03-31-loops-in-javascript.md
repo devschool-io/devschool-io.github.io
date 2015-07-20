@@ -19,6 +19,9 @@ Your web browser (Google Chrome, Firefox, Internet Explorer or Safari) right now
 <p>Windows/Linux: Control + Shift + j</p>
 <p>Mac: Command + Alt + j</p>
 
+<iframe src="https://player.vimeo.com/video/134026797" width="1000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
 <h3>Comments</h3>
 
 {% highlight JavaScript %}
