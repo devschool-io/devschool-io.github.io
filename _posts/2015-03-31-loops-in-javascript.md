@@ -289,7 +289,7 @@ for(var i = 1; i <= 5; i = i + 1){
 
 {% endhighlight %}
 
-You can also use else if statements for more control of the flow of the code.
+You can also use <strong>else if</strong> statements for more control of the flow of code.
 
 {% highlight JavaScript %}
 
@@ -299,6 +299,24 @@ if(some condition is true){
   console.log("this will run only if the first if condition is false and the else if condition is true");
 } else {
   console.log("this will only run if the if statement and else if statement is false")
+}
+
+{% endhighlight %}
+
+<strong>Logical Operators</strong>
+
+{% highlight JavaScript %}
+
+var x = 1;
+var y = 2;
+
+// && is for "and" and both conditions have to be met to be evaluate to true
+// || is for "or" and only one of the conditions has to be met to evaluate to true
+
+if(x === 1 && y > 1){
+  console.log("this code will run");
+} else if (x === 2 || y > 1){
+  console.log("So will this code run");
 }
 
 {% endhighlight %}
