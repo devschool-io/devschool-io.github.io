@@ -315,7 +315,9 @@ var y = 2;
 
 if(x === 1 && y > 1){
   console.log("this code will run");
-} else if (x === 2 || y > 1){
+}
+
+if (x === 2 || y > 1){
   console.log("So will this code run");
 }
 
