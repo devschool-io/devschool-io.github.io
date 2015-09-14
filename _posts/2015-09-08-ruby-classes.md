@@ -3,7 +3,7 @@ layout: post
 title:  "Classes in Ruby"
 date:   2015-09-08 21:58:48
 categories: Ruby
-published: false
+
 tags: [ruby]
 ---
 
@@ -60,6 +60,27 @@ class Person
   def initialize(name)
     @name = name
     @from = "Guatemala"
+  end
+
+  def greet
+    return "Hello my name is #{@name} and I am from #{@from}"
+  end
+end
+
+# adding getter and setter methods
+
+class Person
+  def initialize(name)
+    @name = name
+    @from = "Guatemala"
+  end
+
+  def name
+    @name
+  end
+
+  def name=(string)
+    @name = string
   end
 
   def greet

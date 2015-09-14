@@ -3,7 +3,6 @@ layout: post
 title:  "Factorial (Classwork)"
 date:   2015-06-02 18:00:00
 categories: javascript
-published: false
 tags: [javascript]
 ---
 
@@ -12,7 +11,7 @@ tags: [javascript]
 <p>Make a website that calculates the value of a factorial. For example 3! is 3 * 2 * 1 = 6</p>
 <p>Once you get the factorials working add the result to a table with the number you selected.</p>
 <p>Google how to make tables in html.</p>
-  
+
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
