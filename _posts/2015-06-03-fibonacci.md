@@ -3,7 +3,6 @@ layout: post
 title:  "Fibonacci (Classwork)"
 date:   2015-06-04 18:00:00
 categories: javascript
-published: false
 tags: [javascript]
 ---
 
@@ -15,7 +14,7 @@ tags: [javascript]
 <p>The user will input a position and the webpage has to return the number of the sequence. For example, position 6 = 5, 9 = 21, 20 = 4181, ...</p>
 <p>Also, indicate if the number in the sequence is odd or even.</p>
 <p>Add the results to a table or ul.  If the number is odd make it "red" and "blue" if it is even.</p>
-  
+
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
