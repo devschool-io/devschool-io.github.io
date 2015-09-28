@@ -3,16 +3,15 @@ layout: post
 title:  "Roman Numerals (Classwork)"
 date:   2015-06-11 18:00:00
 categories: javascript
-published: false
 tags: [javascript]
 ---
 
 
 <h4>Roman Numerals</h4>
 <p>Make a website that takes in a number as input an returns it as Roman numeral./p>
-<p>Have it calcultae from 1 to 1000.</p>
+<p>Have it calculate from 1 to 3999.</p>
 <p>If the number is out of range let the user know.</p>
-  
+
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
