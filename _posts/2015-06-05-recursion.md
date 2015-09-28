@@ -3,7 +3,6 @@ layout: post
 title:  "Recursion (Classwork)"
 date:   2015-06-05 18:00:00
 categories: javascript
-published: false
 tags: [javascript]
 ---
 
@@ -15,7 +14,7 @@ tags: [javascript]
 <p>Create a new factorial site with recursion.</p>
 <p>Create a new Fibonacci site with recursion.</p>
 <p>Remember you have to have a base case and proper conditionals for the recursion to stop.  Otherwise it would go on forever and crash the computer.</p>
-  
+
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
