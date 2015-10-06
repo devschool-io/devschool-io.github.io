@@ -3,7 +3,6 @@ layout: post
 title:  "Numbers to Words (Classwork)"
 date:   2015-06-12 18:00:00
 categories: javascript
-published: false
 tags: [javascript]
 ---
 
@@ -11,7 +10,7 @@ tags: [javascript]
 <h4>Numbers to words.</h4>
 <p>Make a website that takes in a number as input an returns it in words (e.g. 2002 = "two thousand and two").</p>
 <p>Go from zero to one billion.</p>
-  
+
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
