@@ -3,7 +3,6 @@ layout: post
 title:  "Bank Account (Classwork)"
 date:   2015-06-23 18:00:00
 categories: javascript
-published: false
 tags: [javascript]
 ---
 
